@@ -38,7 +38,7 @@ O projeto foi iniciado na disciplina de **Laboratório Web** e serve como um mod
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/cldmatos/lab-web-2024-2
+git clone https://github.com/FelipeGalway/lab-web-2024-2
 ```
 
 2. Acesse a pasta do projeto:
